@@ -1,0 +1,13 @@
+.bola{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.preto{
+    background-color: black;
+}
+
+.azul{
+    background-color: blue;
+}
